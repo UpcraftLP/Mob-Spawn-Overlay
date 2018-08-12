@@ -1,0 +1,10 @@
+{
+    "id": "mob_spawn_overlay",
+    "name": "Mob Spawn Overlay",
+    "authors": [
+        "UpcraftLP"
+    ],
+    "listeners": [
+        "com.github.upcraftlp.spawnoverlay.MobSpawnOverlay"
+    ]
+}
